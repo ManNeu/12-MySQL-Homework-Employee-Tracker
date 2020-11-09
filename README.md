@@ -24,7 +24,7 @@ run 'node index.js' to prompt inquirer
 ![employee tracker screenshot](.png);
 
 # deployed link of app
-()
+(https://github.com/ManNeu/12-MySQL-Homework-Employee-Tracker)
 
 # Contact
 Manish Neupane
