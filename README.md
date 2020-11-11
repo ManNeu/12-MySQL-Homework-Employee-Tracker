@@ -21,7 +21,7 @@ The application is built using VS Code. The code can be run in terminal using no
 run 'node index.js' to prompt inquirer
 
 # gif of app
-![employee tracker gif](Employee-information.sql);
+![employee tracker gif](gifAssignment12.gif);
 
 # deployed link of app
 (https://github.com/ManNeu/12-MySQL-Homework-Employee-Tracker)
