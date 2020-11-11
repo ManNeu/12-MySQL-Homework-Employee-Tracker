@@ -20,8 +20,8 @@ The application is built using VS Code. The code can be run in terminal using no
 # Usage
 run 'node index.js' to prompt inquirer
 
-# Screenshot of app
-![employee tracker screenshot](.png);
+# gif of app
+![employee tracker gif](Employee-information.sql);
 
 # deployed link of app
 ()
